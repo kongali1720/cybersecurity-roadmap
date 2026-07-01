@@ -8,3 +8,11 @@
 │
 └── workflows/
     └── markdown-lint.yml
+
+docs/
+├── architecture.md
+├── glossary.md
+├── references.md
+├── learning-path.md
+├── diagrams.md
+└── roadmap.md
