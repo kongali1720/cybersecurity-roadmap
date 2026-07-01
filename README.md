@@ -839,5 +839,5 @@ Made with ❤️ by **Kongali1720**
 
 <div align="center">
   
-Made with ❤️ by **Kongali1720**
+
 
